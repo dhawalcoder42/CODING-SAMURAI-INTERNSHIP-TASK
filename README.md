@@ -1,6 +1,4 @@
-# CODING SAMURAI INTERNSHIP TASK
-
-This repository contains three Java projects created as part of the Coding Samurai Internship. Each project is a command-line application with specific functionalities. Below are brief descriptions of each project:
+This repository contains three Java projects. Each project is a command-line application with specific functionalities. Below are brief descriptions of each project:
 
 ## 1. Calculator Application
 
